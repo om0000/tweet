@@ -1,0 +1,20 @@
+{
+  "short_name": "Disappearing Tweet",
+  "name": "An application to tweet and set time and date for its disappearance.",
+  "icons": [
+    {
+      "src": "tweet.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "tweet.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
